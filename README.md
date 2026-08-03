@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @009Benny
 - 👀 I’m interested in creative native and powerfull mobile apps
-- 🌱 I’m currently learning Swift and Kotlin, I'm working in EON like iOS Dev
-- 💞️ I’m looking to collaborate on Native iOS apps
+- 🌱 I’m a Software Engineer with 7+ years of experience. I'm specialized in iOS development
+     but I'm open to work with other languages.
+- 💞️ I’m looking for a job or join to a team to keep growing
 - 📫 My email is 009bennyreyes@gmail.com
-
-<!---
-009Benny/009Benny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
